@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/Yennic-coder/static/css/main.73c4c03d.css",
+    "main.js": "/Yennic-coder/static/js/main.03cb2197.js",
+    "static/media/back1.jpg": "/Yennic-coder/static/media/back1.537f3c4437bcde073ffb.jpg",
+    "index.html": "/Yennic-coder/index.html",
+    "main.73c4c03d.css.map": "/Yennic-coder/static/css/main.73c4c03d.css.map",
+    "main.03cb2197.js.map": "/Yennic-coder/static/js/main.03cb2197.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.73c4c03d.css",
+    "static/js/main.03cb2197.js"
+  ]
+}
