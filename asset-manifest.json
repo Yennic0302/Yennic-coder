@@ -1,14 +1,14 @@
 {
   "files": {
-    "main.css": "/Yennic-coder/static/css/main.73c4c03d.css",
-    "main.js": "/Yennic-coder/static/js/main.fa544314.js",
+    "main.css": "/Yennic-coder/static/css/main.9f38ca39.css",
+    "main.js": "/Yennic-coder/static/js/main.51750892.js",
     "static/media/back1.jpg": "/Yennic-coder/static/media/back1.537f3c4437bcde073ffb.jpg",
     "index.html": "/Yennic-coder/index.html",
-    "main.73c4c03d.css.map": "/Yennic-coder/static/css/main.73c4c03d.css.map",
-    "main.fa544314.js.map": "/Yennic-coder/static/js/main.fa544314.js.map"
+    "main.9f38ca39.css.map": "/Yennic-coder/static/css/main.9f38ca39.css.map",
+    "main.51750892.js.map": "/Yennic-coder/static/js/main.51750892.js.map"
   },
   "entrypoints": [
-    "static/css/main.73c4c03d.css",
-    "static/js/main.fa544314.js"
+    "static/css/main.9f38ca39.css",
+    "static/js/main.51750892.js"
   ]
 }
